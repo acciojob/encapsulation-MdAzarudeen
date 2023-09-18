@@ -15,7 +15,8 @@ STEPS:
  * create main function in Main.java, and crete an obj of class RWOnly in this file
  * 
  * Task 4:
- * try, setting a value to name, by directly accessing it using obj and also try printing it
+ * try, setting a value to name, by directly accessing it using obj and also try 
+printing it
  * 
  * Error: you might seen some error, please not it down in commnets
  * 
